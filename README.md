@@ -20,7 +20,7 @@ GitHub Link: https://github.com/dtran44/React-Portfolio
 Deployed link: https://resplendent-melba-95fa4d.netlify.app/
 
 Screenshot: 
-![alt text]([https://github.com/dtran44/Tech-Blog/blob/main/public/Techblog%20screenshot.jpg])(https://github.com/dtran44/Tech-Blog/blob/main/public/Techblog%20screenshot.jpg)
+![alt text](https://github.com/dtran44/Tech-Blog/blob/main/public/Techblog%20screenshot.jpg)
 
 ## License
 
