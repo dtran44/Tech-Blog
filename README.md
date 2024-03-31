@@ -16,7 +16,7 @@ N/A
 
 GitHub Link: https://github.com/dtran44/Tech-Blog
 
-Deployed link: https://resplendent-melba-95fa4d.netlify.app/
+Deployed link: https://techblogdt2-4a25046cc776.herokuapp.com/
 
 Screenshot: 
 ![alt text](https://github.com/dtran44/Tech-Blog/blob/main/public/Techblog%20screenshot.jpg)
